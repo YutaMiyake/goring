@@ -1,0 +1,10 @@
+github.com/aclements/go-moremath v0.0.0-20210112150236-f10218a38794 h1:xlwdaKcTNVW4PtpQb8aKA4Pjy0CdJHEqvFbAnvR5m2g=
+github.com/aclements/go-moremath v0.0.0-20210112150236-f10218a38794/go.mod h1:7e+I0LQFUI9AXWxOfsQROs9xPhoJtbsyWcjJqDd4KPY=
+github.com/silentred/gid v1.0.0/go.mod h1:DMQPn66uY+3ed7rWfzOVET7VbDBAhjz+6AmmlixUK08=
+github.com/tsingson/cpuaffinity v0.0.3 h1:mWFq5FOhOMV5ygQx0/svUmP3Pa4vl2XiRPMMlapTliE=
+github.com/tsingson/cpuaffinity v0.0.3/go.mod h1:ZojU/pcU8jUMzPU5l8hgMjhOcsWVL49MFrXeoCuqLiM=
+golang.org/x/perf v0.0.0-20240510023725-bedb9135df6d h1:QTr4HWRb3m3+xRitZtKm9CqwiROVnNCMfL+U2P9C0Vc=
+golang.org/x/perf v0.0.0-20240510023725-bedb9135df6d/go.mod h1:ipWOGiEQ0J5j74LbJ1iNKP2gTl4oge+Djuh2sTOqiRc=
+golang.org/x/sys v0.0.0-20200106162015-b016eb3dc98e/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.20.0 h1:Od9JTbYCk261bKm4M/mw7AklTlFYIa0bIp9BgSm1S8Y=
+golang.org/x/sys v0.20.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
